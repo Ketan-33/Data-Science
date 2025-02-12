@@ -1,0 +1,13 @@
+
+### Analysis Report
+
+#### **Methodology**
+1. Cleaned and preprocessed data.
+2. Engineered features like cumulative profit and trade type.
+3. Calculated financial metrics: ROI, PnL, Sharpe Ratio, MDD, Win Rate, Total Positions.
+4. Ranked accounts based on weighted scores.
+
+#### **Findings**
+- Top 20 accounts were identified.
+- The best-performing account had an ROI of 0.00 and a Sharpe Ratio of 0.06.
+- Maximum Drawdown indicates risk management effectiveness.
